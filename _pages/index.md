@@ -7,19 +7,19 @@ header:
 excerpt: >
   Tervetuloa!
 feature_row:
-  - image_path: /assets/images/home.jpg
-    title: "Vauva-arkea"
-    excerpt: "Sitäpä sitä"
+  - image_path: /assets/images/nappula.png
+    title: "Vauva-arkea,"
+    excerpt: ""
     url: ""
 
-  - image_path: /assets/images/home.jpg
-    title: "Ajatuksia työstä"
-    excerpt: "Ja tätä!"
+  - image_path: /assets/images/nappula.png
+    title: "ajatuksia työstä"
+    excerpt: ""
     url: ""
 
-  - image_path: /assets/images/home.jpg
-    title: "Laita viestiä"
-    excerpt: "Stated above"
+  - image_path: /assets/images/nappula.png
+    title: "ja paljon muuta"
+    excerpt: ""
     url: ""     
 ---
 
