@@ -4,5 +4,5 @@ main:
     url: /arkisto
   - title: "Minusta"
     url: /about
-  - title: Galleria
-    url: /gallery
+  # - title: Galleria
+    # url: /gallery
