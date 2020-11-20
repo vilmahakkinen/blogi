@@ -10,15 +10,15 @@ minimal_mistakes_skin    : "air"
 locale                   : "fi"
 title                    : "Vilma Häkkinen"
 title_separator          : "-"
-subtitle                 : Blogi
+subtitle                 : " "
 name                     : "Vilma Häkkinen"
 description              : "Vauva-arjen, viestinnän, yrittäjyyden ja vallitsevan maailman inspiroivia mietteitä sanoiksi puettuna."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "vilmahakkinen.fi"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "vilmakkinen/blogi"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Vilma Häkkinen"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Vilma"
   avatar           : "/assets/images/author_vilma.jpg"
-  bio              : "25-vuotias äiti, puoliso, viestintäihminen ja yrittäjä, joka kirjoittaa elämästä käsittääkseen sitä paremmin."
+  bio              : "Äiti, puoliso, viestintäihminen ja yrittäjä, joka kirjoittaa elämästä käsittääkseen sitä paremmin."
   location         : "Vaasa"
   email            :
   links:

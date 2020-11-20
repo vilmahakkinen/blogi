@@ -6,4 +6,4 @@ description:
 permalink: /gallery
 ---
 
-Tänne tulee sitten kuvia. :) 
+Tänne tulee sitten kaikenlaisia kuvia

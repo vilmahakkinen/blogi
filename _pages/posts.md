@@ -1,6 +1,6 @@
 ---
 layout: posts
-author-profile: ture
-title: Kaikki kirjoitukset
-permalink: /arkisto
+author-profile: true
+title: Blogi
+permalink: /blogi
 ---
