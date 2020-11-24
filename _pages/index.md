@@ -3,22 +3,21 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/kasvi.jpg
+  overlay_image: /assets/images/banneri.jpg
 excerpt: >
-  Tervetuloa!
 feature_row:
-  - image_path: /assets/images/nappula.png
-    title: "Vauva-arkea,"
+  - image_path: /assets/images/raskaus.jpeg
+    title: "Vauvajuttuja"
     excerpt: ""
     url: ""
 
-  - image_path: /assets/images/nappula.png
-    title: "ajatuksia työstä"
+  - image_path: /assets/images/lofoten.jpeg
+    title: "Seikkailuja"
     excerpt: ""
     url: ""
 
-  - image_path: /assets/images/nappula.png
-    title: "ja paljon muuta"
+  - image_path: /assets/images/beachbabe.jpeg
+    title: "Onnistumisia ja epäonnistumisia"
     excerpt: ""
     url: ""     
 ---
@@ -26,6 +25,4 @@ feature_row:
 > "So this, I believe, is the central question upon which all 
 > creative living hinges: Do you have the courage to bring forth 
 > the treasures that are hidden within you?” 
-> ― Elizabeth Gilbert  
-  
-  {% include feature_row %}
+> ― Elizabeth Gilbert 

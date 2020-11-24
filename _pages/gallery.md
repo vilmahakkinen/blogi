@@ -2,8 +2,6 @@
 layout: default
 author_profile: false
 title: Galleria
-description: 
+description: Elämäni kuvi(n)a
 permalink: /gallery
 ---
-
-Tänne tulee sitten kaikenlaisia kuvia

@@ -2,8 +2,9 @@
 layout: single
 title: "Alkusanat"
 subtitle: "Mä en oo koskaan osannut kirjoittaa päiväkirjaa."
-date: 2020-11-06
+date: 2020-11-20
 background: '/images/blogi.jpg'
+classes: wide
 ---
 
 Mä en oo koskaan osannut kirjoittaa päiväkirjaa. 

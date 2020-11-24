@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% assign num = page.photos.size %}
+
+<h1>{{ page.title }}</h1>
+
+  {% for i in (1..num) %}
+ 
+    <img src="{{ site.baseurl }}/assets/images/photos/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}" margin="20px" size="300px">
+  
+  {% endfor %}
+
