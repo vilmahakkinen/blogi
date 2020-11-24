@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Arkisto"
-    url: /arkisto
+  - title: "Blogi"
+    url: /blogi
   - title: "Minusta"
     url: /about
-  # - title: Galleria
-    # url: /gallery
+  #- title: Galleria
+    #url: /gallery

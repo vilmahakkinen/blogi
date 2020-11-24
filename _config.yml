@@ -10,42 +10,29 @@ minimal_mistakes_skin    : "air"
 locale                   : "fi"
 title                    : "Vilma Häkkinen"
 title_separator          : "-"
-subtitle                 : Blogi
+subtitle                 : "Ajatuskupla"
 name                     : "Vilma Häkkinen"
-description              : "Vauva-arjen, viestinnän, yrittäjyyden ja vallitsevan maailman inspiroivia mietteitä sanoiksi puettuna."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "vilmakkinen/blogi"
+description              : "Vauva-arjen, viestinnän, yrittäjyyden ja ympäröivän maailman innoittamia mietteitä mahdollisimman kauniiksi sanoiksi puettuna."
+url                      : "https://vilmahakkinen.fi"
+baseurl                  : #"/blogi"
+repository               : "vilmahakkinen/blogi"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Vilma Häkkinen"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    shortname            : vblogi
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : # true
+search_full_content      : # true
+search_provider          : # lunr
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -67,7 +54,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/banneri.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -77,7 +64,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -86,11 +73,14 @@ analytics:
 # Site Author
 author:
   name             : "Vilma"
-  avatar           : "/assets/images/about_vilma.jpg"
-  bio              : "25-vuotias äiti, puoliso, viestintäihminen ja yrittäjä, joka kirjoittaa elämästä käsittääkseen sitä paremmin."
+  avatar           : "/assets/images/author_vilma.jpg"
+  bio              : "Äiti, avopuoliso, viestintätyyppi ja yrittäjä, joka kirjoittaa elämästään pääasiassa käsittääkseen sitä paremmin mutta myös ihan huvikseen."
   location         : "Vaasa"
   email            :
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vihakkinen@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/vilmahakkinen"
@@ -103,9 +93,6 @@ author:
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/vilski"
-          # label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:vihakkinen@gmail.com"
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -252,11 +239,9 @@ defaults:
   - scope:
       path: ""
       type: posts
-      author-profile: true
     values:
-      layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true

@@ -1,9 +1,9 @@
 ---
 layout: single
-author_profile: true
 title: About...
 description: 
 permalink: /about
+author_profile: true
 ---
 
 **Vilma**
