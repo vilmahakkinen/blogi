@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  
+title: Minusta
 description: 
 permalink: /about
 author_profile: true
