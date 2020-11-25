@@ -11,5 +11,3 @@ excerpt: >
 > creative living hinges: Do you have the courage to bring forth 
 > the treasures that are hidden within you?” 
 > ― Elizabeth Gilbert
-
-Tervetuloa seuraamaan, kuinka tässä käy!
