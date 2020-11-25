@@ -10,7 +10,7 @@ author_profile: true
 
 *Oon 25 vuotta, mulla on pieni vauva ja oon opiskellut suomen kieltä Tampereen yliopistosta. Työskentelen viestintätehtävissä ja tällä hetkellä oon työllistynyt yrittäjänä.*
 
-Näin mä voisin kuvata itseäni jossain virallisessa kontekstissa. Yllä mainitut pitää toki paikkansa ja ne suuntaa vahvasti mun kiinnostuksen kohteita sekä kirjoitusteni aiheita. Niiden ohella oon kuitenkin paljon muutakin – paljon hyvää, jonkin verran kehitettävää. Kirjoittaa mä osaan, mutta nyt haluaisin oppia kirjoittamaan omana itsenäni ja löytää sitä kautta uusia puolia maailmasta.
+Näin mä voisin kuvata itseäni jossain virallisessa kontekstissa. Yllä mainitut pitää toki paikkansa ja ne suuntaa vahvasti mun kiinnostuksen kohteita sekä kirjoitusten aiheita. Niiden ohella oon kuitenkin paljon muutakin – paljon hyvää, jonkin verran kehitettävää. Kirjoittaa mä osaan, mutta nyt haluaisin oppia kirjoittamaan omana itsenäni ja löytää sitä kautta uusia puolia maailmasta ja itsestäni.
 
 **Sivusto**
 
