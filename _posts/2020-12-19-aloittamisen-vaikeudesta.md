@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Aloittamisen vaikeudesta"
-subtitle: "Kirjoitan tätä tekstiä lauantaina 12.12. sängyssä juuri ennen nukkumaanmenoa. Yli kaksi viikkoa on kulunut siitä, kun tästä blogista tuli julkinen. En oo jakanut linkkiä kellekään."
+subtitle: "Kirjoitan tätä tekstiä lauantaina 12.12. sängyssä juuri ennen nukkumaanmenoa."
 date: 2020-12-19
 classes: wide
 ---
