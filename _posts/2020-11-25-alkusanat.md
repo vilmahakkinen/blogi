@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Alkusanat"
-subtitle: "Mä en oo koskaan osannut kirjoittaa päiväkirjaa."
 date: 2020-11-25
 classes: wide
 ---

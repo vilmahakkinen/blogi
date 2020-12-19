@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Aloittamisen vaikeudesta"
-subtitle: "Kirjoitan tätä tekstiä lauantaina 12.12. sängyssä juuri ennen nukkumaanmenoa."
 date: 2020-12-19
 classes: wide
 ---
