@@ -6,7 +6,7 @@ permalink: /about
 author_profile: true
 ---
 
-*Oon 25-vuotias, mulla on maaliskuussa syntynt vauva, opiskelin suomen kieltä ja keväällä valmistuin filosofian maisteriksi. Työskentelen kielen ja viestinnän asiantuntijana ja tällä hetkellä oon työllistynyt yrittäjänä.*
+*Oon 25-vuotias, mulla on maaliskuussa syntynyt vauva, opiskelin suomen kieltä ja valmistuin filosofian maisteriksi keväällä. Työskentelen kielen ja viestinnän asiantuntijana ja tällä hetkellä oon työllistynyt yrittäjänä.*
 
 Esimerkiksi näin mä voisin kuvata itseäni jossain virallisessa kontekstissa. Yllä mainitut pitää toki paikkansa ja ne suuntaa vahvasti mun kiinnostuksen kohteita sekä kirjoitusten aiheita. Niiden ohella oon kuitenkin paljon muutakin – paljon hyvää, aika paljon kehitettävää. Kirjoittaa mä osaan, mutta nyt haluaisin oppia kirjoittamaan omana itsenäni ja löytää sitä kautta uusia puolia maailmasta ja itsestäni.
 
