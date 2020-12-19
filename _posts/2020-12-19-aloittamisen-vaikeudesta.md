@@ -12,4 +12,7 @@ Suoraan sanottuna en tiedä, aionko jakaa tätäkään tekstiä, vaikka julkaisi
 
 Mulla on pitkä lista aiheista, joista voisin kirjoittaa, mutta se ei oo tarpeeksi. Mulla on alusta, jonka oon itse tehnyt, mutta en oo ees avannut näitä sivuja sitten joulukuun alun. Mun ei oo missään vaiheessa ollut tarkoitus perustaa mitään semigeneeristä lifestyle-perhe-elämä-livelaughlove-blogia, mutta silti selailen sellaisia ja vertailen omia mahdollisia sisältöjäni niihin. Mä en oo missään kohtaa ajatellut julkaisevani tekstien ohella kuvia, mutta silti mietin, pitäisikö sittenkin. 
 
-Jos hyppää kylmilteen suoraan syvään päätyyn, voi joko a) järkyttyä ja haluta saman tien pois tai b) totutella olosuhteisiin, vaikka karmii, ja tehdä vaikka jotain hiton vesijumppaa jotta tulee lämpimämpi. Jos puhutaan avantouinnista Rauhaniemessä 27 asteen pakkasessa, valitsen vaihtoehdon a joka kerta. Muuten pitää aina yrittää jumpata.
+Jos hyppää kylmilteen suoraan syvään päätyyn, voi joko 
+a) järkyttyä ja haluta saman tien pois tai 
+b) totutella olosuhteisiin, vaikka karmii, ja tehdä vaikka jotain hiton vesijumppaa jotta tulee lämpimämpi. 
+Jos puhutaan avantouinnista Rauhaniemessä 27 asteen pakkasessa, valitsen vaihtoehdon a joka kerta. Muuten pitää aina yrittää jumpata.
