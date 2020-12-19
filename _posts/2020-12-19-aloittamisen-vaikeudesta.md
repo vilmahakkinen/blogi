@@ -5,7 +5,7 @@ date: 2020-12-19
 classes: wide
 ---
 
-Kirjoitan tätä tekstiä lauantaina 12.12. sängyssä juuri ennen nukkumaanmenoa. Yli kaksi viikkoa on kulunut siitä, kun tästä blogista ja osoitteesta vilmahakkinen.fi tuli julkisia. En oo jakanut linkkiä *kellekään*, enkä itse asiassa kertonut edes kotona, että nyt se verkko-osoite toimii.
+Kirjoitan tätä tekstiä lauantaina 12.12. sängyssä juuri ennen nukkumaanmenoa. Yli kaksi viikkoa on kulunut siitä, kun tästä blogista ja osoitteesta *vilmahakkinen.fi* tuli julkisia. En oo jakanut linkkiä *kellekään*, enkä itse asiassa kertonut edes kotona, että nyt se verkko-osoite toimii.
 
 Suoraan sanottuna en tiedä, aionko jakaa tätäkään tekstiä, vaikka julkaisisinkin sen. ”Sit kun on vähän parempi hetki, paremmin aikaa ja vähän enemmän aiheita mietittynä”, mä mietin aina, kun erehdyn miettimään blogia. Mä näin ihan hirveen vaivan laatiakseni nämä sivut, ja kun sain ne valmiiksi, ihan kuin mun kiinnostus ois lopahtanut saman tien. Mä tiedän, että kyse ei oo kiinnostuksen loppumisesta vaan siitä, että en vaan uskalla enkä usko olevani valmis. Oonhan mä toki ollut kiireinenkin, eikä vapaa-aikaa huvita enää viettää koneella samassa määrin kuin marraskuussa. Selvää on, että pystyn julkaista tekstejäni verkkoon ihan omalla nimelläni; en vaan uskalla vielä kertoa siitä kellekään.
 
