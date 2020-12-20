@@ -66,10 +66,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : "google-gtag"
   google:
     tracking_id          : "G-RZW9TVET3J"
-    anonymize_ip         : false (default)
+    anonymize_ip         : false # default
 
 
 # Site Author
