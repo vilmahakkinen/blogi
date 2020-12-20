@@ -42,7 +42,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "256789050"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -68,8 +68,8 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-RZW9TVET3J"
+    anonymize_ip         : false (default)
 
 
 # Site Author
