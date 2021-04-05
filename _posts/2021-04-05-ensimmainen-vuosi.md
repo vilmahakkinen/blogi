@@ -45,7 +45,7 @@ classes: wide
 *Huonojen öiden vaihe oli ohitse ja saatiin taas nukkua. Seisomisharjoitukset kuului edelleen vahvasti sun päiväohjelmaan, ja ensimmäisenä syntymäpäivänäsi uskalsit ottaa ensimmäiset, toooosi varovaiset askeleet. Samana päivänä totesit, että 365 päivää äidinmaitoa riitti.*
 
 
-♥
+Onnea, rakas yksivuotias! ♥
 
 <img src="/assets/images/Milo_smol.jpg"
      alt="Yksivuotias"
