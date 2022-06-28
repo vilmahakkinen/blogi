@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: true
-title: Galleria
+title: Elämäni kuvi(n)a
 description: Elämäni kuvi(n)a
 permalink: /gallery
 gallery:
