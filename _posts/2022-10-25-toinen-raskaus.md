@@ -1,0 +1,16 @@
+---
+layout: single
+title: "Toinen raskaus & yrittäjyys"
+date: 2022-10-25
+classes: wide
+---
+
+#### Me saadaan ensi vuonna vauva!
+
+Kun tulin raskaaksi ensimmäistä kertaa vuonna 2019, työskentelin määräaikaisella sopimuksella. Sopimus päättyi joulukuun loppuun, ja ajattelin, että se oltaisiin uusittu helmikuun lopulla alkavasta äitiysvapaasta huolimatta. Syksystä alkaen osa mun työajasta oltiin myyty Norjaan, jossa olin samana keväänä asuessani aloittanut osa-aikaisena viestintäasiantuntijana. Kun sitten syksyn edetessä kävi ilmi, että työsopimusta Suomessa ei uusittaisi, Norjasta ehdotettiin, että perustaisin toiminimen ja tekisin heille töitä sitä kautta. Koska tykkäsin kovasti työstä (ja olisin muuten jäänyt työttömäksi opiskelijaksi), tartuin tarjoukseen. Sovittiin, että pitäisin täysimittaisen vanhempainvapaan, mutta onnekkaiden sattumien johdosta päätinkin jatkaa töitä vähän eri tittelillä jo vähän aiemmin. Oon pian kaksi vuotta työskennellyt siellä kuin kuka tahansa työntekijä, mutta koska mulla ei ole työnantajaa, oon yhä virallisesti konsultti ja siis laskutan työstäni. 
+
+Toiminimellä työskentelyssä on paljon hyvää, mutta vielä enemmän tässä on ollut opeteltavaa ja hermoiltavaa. Hoidan laskutus- ja kirjanpitoasiat sekä kaikki veroilmoitukset itse, opin kantapään kautta käänteisen arvonlisäverotuksen koukeroista ja oman työn johtamista ja aikatauluttamista on pitänyt opetella runsaasti. Yrittäjänä oon myös YEL-velvollinen eli mun on pitänyt ottaa yrittäjän eläkevakuutus. Sosiaaliturva ja myös vanhempainpäivärahat määräytyy sen mukaan, mitä yrittäjänä arvioin vuositulokseni, ja samaisen vuositulon mukaan mun on myös maksettava yrittäjän eläkemaksuja. Mitä korkeampi työtulo, sitä suuremmat sosiaaliturvamaksut mutta myös eläkemaksut. Paljon vastuuta, paljon opittavaa ja paljon asioita, joita en vieläkään hallitse. 
+
+Asia, joka on viime aikoina aiheuttanut vähän epävarmuutta ja kaikenlaisten skenaarioiden pohtimista, on tämä uusi raskaus ja siitä seuraavat poissaolot. Mun konsulttisopimukset tehdään vuodeksi kerrallaan, ja onnekseni sain ennen kesälomia allekirjoitettua sopimuksen vuodelle 2023. Vaikka saisinkin pitää haluamani määrän vanhempainvapaata ensi vuoden aikana, ei esimerkiksi hoitovapaaseen taida olla mitään saumaa, jos haluan, että mulla on työ johon palata. Myöskään osa-aikaisesti työskentely ei välttämättä ole mahdollista. Määräaikaisena työntekijänä tilanne olisi toki samankaltainen, mutta työntekijän sopimuksen uusimatta jättäminen raskauden tai vanhempainvapaan perusteella on aika paheksuttua ja siten toivottavasti harvinaisempaa. 
+
+Tuntuu vähän häijyltä, että näin ihanaa asiaa varjostaa tällainen epävarmuus - taas. Samalla puheenvuorot siitä, että synnyttävän äidin pitäisi pystyä jättämään työelämä ja urahaaveet pyyteettömästi taka-alalle siksi aikaa, kun lisäännytään, tuntuu erityisen haastavilta. En koe, että elämää pitäisi pistää tauolle jos se ei hyvältä tunnu, ja koska meidän elämä ei vielä ole valmis (kenen muka on?), mun on tehtävä päätöksiä myös tulevaisuutta ajatellen. Toisen lapsen kanssa meidän on mahdollista jakaa vanhempainvapaat tasaisemmin, mikä on tietysti loistavaa. Siitä huolimatta mulla on ja saa olla huoli siitä, osaanko tasapainotella tarpeeksi hyvin perhe-elämän ja uran välillä siten, että voidaan kaikki olla tyytyväisiä ratkaisuihin.
