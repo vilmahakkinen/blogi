@@ -1725,7 +1725,7 @@ fi: &DEFAULT_FI
   powered_by                 : "Powered by"
   website_label              : "Websivu"
   email_label                : "Email"
-  recent_posts               : "Viimeisimmät postaukset"
+  recent_posts               : "Postaukset"
   undefined_wpm              : "words_per_minute asetusta ei ole määritelty _config.yml tiedostossa"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
   comment_form_comment_label : "Kommentti"
