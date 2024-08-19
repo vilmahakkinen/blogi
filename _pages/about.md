@@ -6,7 +6,7 @@ permalink: /about
 author_profile: true
 ---
 
-*Oon 27-vuotias, mulla on kaksi pientä lasta, opiskelin suomen kieltä ja valmistuin filosofian maisteriksi keväällä 2020. Työskentelen kielen ja viestinnän asiantuntijana ja tällä hetkellä teen konsulttina töitä Norjaan.*
+*Oon 28-vuotias, mulla on kaksi pientä lasta, opiskelin suomen kieltä ja valmistuin filosofian maisteriksi keväällä 2020. Työskentelen kielen ja viestinnän asiantuntijana ja tällä hetkellä teen konsulttina töitä Norjaan.*
 
 Esimerkiksi näin mä voisin kuvata itseäni jossain virallisessa kontekstissa. Yllä mainitut pitää toki paikkansa ja ne suuntaa vahvasti mun kiinnostuksen kohteita sekä kirjoitusten aiheita. Niiden ohella oon kuitenkin paljon muutakin – paljon hyvää, aika paljon kehitettävää. Kirjoittaa mä osaan, mutta haluaisin oppia kirjoittamaan omana itsenäni ja löytää sitä kautta uusia puolia maailmasta ja itsestäni.
 
